@@ -53,35 +53,53 @@ predicted-genetic clusters.
 
 
 - how to write out a plot in R to a file (can make it pdf)
+
 png("unfiltered.png")
+
 {plot function}
+
 dev.off()
 
 - sign in
+
 ssh -X -o ServerAliveInterval=30 -p 732 barenom@shell.cgrb.oregonstate.edu
+
 sftp -o Port=732 barenom@files.cgrb.oregonstate.edu
 
 - git password
+
 CQLS
+
 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
+
 CQLS2
+
 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
 
 - git pipeline
+
 git pull .
+
 git add .
+
 git commit -m "update"
+
 git push
+
 git pull
 
 - submissions
+
 SGE_Batch -c " -P 4 -q bpp@anduin -r jobname
 
 - sftp commands
+
 get [file] (download file from cluster to local device)
+
 put [file] (upload file from local device to cluster)
 
 - how to get a random subset of a vcf
+
 bcftools view FULLVCF.vcf | vcfrandomsample -r (float object, fraction of genome maintained) > SUBSET.vcf
 
 
