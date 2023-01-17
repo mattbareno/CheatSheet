@@ -68,7 +68,7 @@ sftp -o Port=732 barenom@files.cgrb.oregonstate.edu
 
 - git password
 
-[link][https://docs.google.com/document/d/1z3_ojKPFrOTEBN-JShzeLMroCvjeOIEV5TvOIYKtCcM/edit?usp=sharing]
+link[here](https://docs.google.com/document/d/1z3_ojKPFrOTEBN-JShzeLMroCvjeOIEV5TvOIYKtCcM/edit?usp=sharing)
 
 - git pipeline
 
