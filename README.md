@@ -96,5 +96,7 @@ put [file] (upload file from local device to cluster)
 
 bcftools view FULLVCF.vcf | vcfrandomsample -r (float object, fraction of genome maintained) > SUBSET.vcf
 
+- 
+Rscript --vanilla scipt.R
 
-
+sh scrip.sh
