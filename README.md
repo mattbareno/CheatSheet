@@ -100,3 +100,8 @@ bcftools view FULLVCF.vcf | vcfrandomsample -r (float object, fraction of genome
 Rscript --vanilla scipt.R
 
 sh scrip.sh
+
+wrapper
+- scripts
+- wrapper.sh
+* documenting is very important here!
