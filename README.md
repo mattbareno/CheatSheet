@@ -105,3 +105,6 @@ wrapper
 - scripts
 - wrapper.sh
 * documenting is very important here!
+
+Rmd cheat sheet
+https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
