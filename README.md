@@ -119,3 +119,7 @@ R code:
 - Paste(x, sep=y) # what to put between each x
 - y<-x[!is.na(x)] #gives us a vector y that is a subset of 
                 # x that is not NA
+- x[c(1,4,6)] # gives us a subset of vector x containing only 4,1,6
+- x[c(-2, -10)] #gives us a subset of vector x containing ALL except 2 and 10
+- - equal to x[-c(2, 10)]
+- 
