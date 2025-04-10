@@ -112,6 +112,7 @@ https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
 
 
 R code:
+
 atomic vectors - one data type
 list - multiple data type
 paste(x, collapse=y) #y refers to what to delimit the elements in the vector by
