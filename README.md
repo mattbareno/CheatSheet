@@ -113,9 +113,9 @@ https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
 
 R code:
 
-atomic vectors - one data type
-list - multiple data type
-paste(x, collapse=y) #y refers to what to delimit the elements in the vector by
-Paste(x, sep=y) # what to put between each x
-y<-x[!is.na(x)] #gives us a vector y that is a subset of 
+- atomic vectors - one data type
+- list - multiple data type
+- paste(x, collapse=y) #y refers to what to delimit the elements in the vector by
+- Paste(x, sep=y) # what to put between each x
+- y<-x[!is.na(x)] #gives us a vector y that is a subset of 
                 # x that is not NA
