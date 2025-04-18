@@ -123,3 +123,5 @@ R code:
 - x[c(-2, -10)] #gives us a subset of vector x containing ALL except 2 and 10
   - equal to x[-c(2, 10)]
 - 
+OTU - taxa table
+Mapping file = descriptive stats
